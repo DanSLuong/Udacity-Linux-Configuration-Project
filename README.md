@@ -1,5 +1,11 @@
 # Udacity-Linux-Configuration-Project
 
+### Project Description
+
+The final project for the Linux servers course from Udacity's Full Stack Web Developer Nanodegree Program.
+
+Link to deployed project: [ec2-13-58-26-117.us-east-2.compute.amazonaws.com](ec2-13-58-26-117.us-east-2.compute.amazonaws.com)
+
 ### Get your server
 For this project we selected to use [Amazon Lightsail](https://lightsail.aws.amazon.com/ls/webapp/home/instances?#)
 
@@ -335,5 +341,7 @@ For this project we selected to use [Amazon Lightsail](https://lightsail.aws.ama
    
 
 ### References
+
+* [Udacity - Linux Security](udacity.com)
 
 * [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
